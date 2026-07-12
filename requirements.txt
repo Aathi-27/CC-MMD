@@ -1,0 +1,21 @@
+# CC-MMD Pipeline Dependencies
+# CPU-only installation
+
+# Core ML
+torch
+transformers
+open-clip-torch
+scikit-learn
+numpy
+pandas
+
+# Image processing
+Pillow
+
+# Utilities
+tqdm
+python-dotenv
+
+# Visualization (optional)
+matplotlib
+seaborn
